@@ -1,0 +1,38 @@
+body {
+	background: url("6010521.jpg");
+}
+
+table {
+	margin-left:auto;
+	margin-right:auto;
+	border: solid;
+}
+
+img {
+	max-width: 100%;
+	width: 3vw;
+	height: auto; 
+}
+
+div {
+	border: solid;
+	font: 2.5vh cursive;
+	
+	word-break: break-word;
+	word-wrap: break-word;
+	overflow-wrap: break-word;
+}
+
+
+td {
+	border: solid;
+}
+
+tr :first-child {
+  width: 0;
+  white-space: nowrap;
+}
+
+tr :last-child {
+  width: 100%;
+}
