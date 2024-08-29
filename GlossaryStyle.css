@@ -1,10 +1,10 @@
 body {
 	background: url("2588.jpg");
-	
 }
 
 .m {
-	font: 4em cursive;
+	font: 4em inters;
+	font-weight: 700;
 }
 
 table {
@@ -17,18 +17,18 @@ img {
 	max-width: 100%;
 	width: 39em;
 	height: auto; 
-	float: left;
+	float: right;
 	margin-right: 2em;
 	border-radius: 15px;
 }
 
 div {
-	font: 1.7em cursive;
+	font: 1.7em serif;
 	
 	word-break: break-word;
 	word-wrap: break-word;
 	overflow-wrap: break-word;
-	
+	font-weight: 700;
 }
 
 
