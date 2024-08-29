@@ -1,38 +1,42 @@
 body {
-	background: url("6010521.jpg");
+	background: url("2588.jpg");
+	
+}
+
+.m {
+	font: 4em cursive;
 }
 
 table {
 	margin-left:auto;
 	margin-right:auto;
-	border: solid;
+	width: 90vw;
 }
 
 img {
 	max-width: 100%;
-	width: 3vw;
+	width: 39em;
 	height: auto; 
+	float: left;
+	margin-right: 2em;
+	border-radius: 15px;
 }
 
 div {
-	border: solid;
-	font: 2.5vh cursive;
+	font: 1.7em cursive;
 	
 	word-break: break-word;
 	word-wrap: break-word;
 	overflow-wrap: break-word;
+	
 }
 
 
-td {
-	border: solid;
-}
-
-tr :first-child {
+/*tr :first-child {
   width: 0;
   white-space: nowrap;
 }
 
 tr :last-child {
   width: 100%;
-}
+}*/
