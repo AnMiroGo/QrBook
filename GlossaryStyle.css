@@ -3,8 +3,9 @@ body {
 }
 
 .m {
-	font: 4em inters;
+	font-size: 5em;
 	font-weight: 700;
+	font-family: 'Hitch Hike', sans-serif;
 }
 
 table {
